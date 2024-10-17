@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Playdate files
+
+build/
+Source/
+*.pdx/
+
+# Editor files
+
+.vscode/
