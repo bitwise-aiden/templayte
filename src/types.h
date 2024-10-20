@@ -1,14 +1,9 @@
 #ifndef TYPES_H
 #define TYPES_H
 
-#include <assert.h>
-#include <ctype.h>
 #include <float.h>
-#include <math.h>
-#include <stdarg.h>
-#include <stddef.h>
+#include <stdbool.h>
 #include <stdint.h>
-#include <string.h>
 
 typedef char      byte;
 typedef float     f32;
